@@ -33,7 +33,7 @@ function Login() {
             <div className="title">
               <h3>Login</h3>
             </div>
-            <div className="container flex column">
+            <div className="container flex column a-center">
               <input
                 type="text"
                 placeholder="Email"
